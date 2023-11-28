@@ -14,4 +14,7 @@ BugReports: https://github.com/DavidRamirezz/RPACKAGESmath4753/issues
 Depends: R (>= 2.10)
 NeedsCompilation: no
 Packaged: 2023-11-04 00:04:08 UTC; david
-
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

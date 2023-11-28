@@ -1,0 +1,19 @@
+---
+title: "Explaining what this package does."
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Explaining what this package does.}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(FALL234753RAMI0166)
+```
